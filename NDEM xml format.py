@@ -1,0 +1,19 @@
+<NDEM>
+  <DroneIdentification>
+    <DroneID>FALCON-001</DroneID>
+    <Manufacturer>FalconTech</Manufacturer>
+  </DroneIdentification>
+  <TelemetryData>
+    <Position>
+      <X>0.001</X>
+      <Y>0.004</Y>
+      <Z>-3.32</Z>
+    </Position>
+    <Orientation>
+      <Roll>0.02</Roll>
+      <Pitch>0.01</Pitch>
+      <Yaw>0.36</Yaw>
+    </Orientation>
+  </TelemetryData>
+</NDEM>
+
